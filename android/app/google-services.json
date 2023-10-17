@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65958263247",
+    "project_id": "field-service-c8949",
+    "storage_bucket": "field-service-c8949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65958263247:android:be796360edd594b40c7aba",
+        "android_client_info": {
+          "package_name": "akash.field_service.employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65958263247-glkitoa3bdate01vcbcava8qo37lgt8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwJ8mX2klCE2SYMM4gX16GfTAY0rrUXb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65958263247-glkitoa3bdate01vcbcava8qo37lgt8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
